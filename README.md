@@ -1,1 +1,1 @@
-# Kubernetes-Guestbook
+# coding-project-template
